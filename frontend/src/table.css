@@ -1,0 +1,33 @@
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 10px; 
+    width: 100%;
+  }
+  
+
+  tr {
+    background-color: #f1f1f1; 
+    border-radius: 10px; 
+    transition: background-color 0.3s ease; 
+  
+
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  
+  th {
+    background-color: #333;
+    color: white;
+  }
+  
+  
+  td {
+    padding: 5px;
+  }
+  
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
